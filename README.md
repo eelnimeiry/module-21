@@ -1,21 +1,19 @@
-# Google Book Search MERN Stack Challenge
-
+# Google Book Search 
 ## Summary
-use of the Google Books API to build an Apollo Server Graql API. The app is developed using the MERN stack. Users can create an account, log in, search for books they're interested in, and add them to a list of saved books. Users can also delete the saved books from the list.
-
+the creation of an Apollo Server Graql API using the Google Books API. The MERN stack is used in the app's development. Users can create an account, log in, conduct a search for books, and save those books to a list of favourites. The saved books can also be removed from the list by users.
 
 ## Tools Used
 
-* JavaScript
 * Node.js
 * Express
+* JavaScript
 * React
-* Apollo Server
 * Graphql
-* Mongodb
-* Mongoose
 * Dotenv
+* Apollo Server
+* Mongoose
 * Heroku
+* Mongodb
 
 
 
@@ -28,11 +26,12 @@ use of the Google Books API to build an Apollo Server Graql API. The app is deve
 
 
 # Installation & Database SetUp
-You must execute npm init to create your package.json file in order to utilise this app.
-* To use the programme successfully, the following Npm dependencies must be installed: The package.json file contains the necessary dependencies.
-* You must establish a cluster on Mongodb Atlas in order to correctly install the database.
+To use this app, you must run npm init to build your package.json file.
+* The programme requires the installation of the following Npm dependencies in order to function properly: The required dependencies are contained in the package.json file.
+* To install the database properly, you must create a cluster on Mongodb Atlas.
 
-Run "npm start" to make the port available to Mongoose. This application is set up on Heroku.
+
+To make the port accessible to Mongoose, run "npm start". This programme is configured for Heroku.
 
 
 
