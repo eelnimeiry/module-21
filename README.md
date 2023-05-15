@@ -36,9 +36,6 @@ To make the port accessible to Mongoose, run "npm start". This programme is conf
 
 
 
-# Heroku
-
-
 
 
 # Contributing
